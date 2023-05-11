@@ -24,4 +24,4 @@ The `config.py` file contains configuration settings for the project. You will n
 
 ## License
 
-This project is licensed under the GPL 3.0 license. See the `LICENSE.txt` file for details.
+This project is licensed under the GPL 3.0 license. See the `LICENSE` file for details.
